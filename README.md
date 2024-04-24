@@ -1,0 +1,5 @@
+- 👋 Hi, I’m TASGuy.
+- 👀 I’m interested in coding in JavaScript, HTML, and CSS.
+- 💞️ I’m looking to collaborate on any fun project, maybe not full time though.
+- 📫 Reach me via email.
+- ⚡ Fun fact: I'm homeschooled.
